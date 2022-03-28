@@ -66,6 +66,7 @@ padding: 0.5rem;
      background-color: red;
     margin-left: 0;
     color:white;
+    padding: 0.5em;
 }
 
 .bold-text{
@@ -86,16 +87,19 @@ padding: 0.5rem;
      background-color: red;
      border-width: 15%;
 }
-h1{
+.bcm{
        color:white;
     text-align: center;
     display: block;
     margin: 0;
     padding: 0;
+    border: 1rem dashed yellow;
+    padding: 2rem;
+    font-size: 2em;
+    background-color: red;
+    margin: auto 0;
    
 }
-div h1.bcm{
-background-color: red;
- border:2em solid green;
-  border: 1em solid red;
-}
+
+
+
